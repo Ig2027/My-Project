@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#apps {
+    height: 800px;
+    width: 100%;
+    background: linear-gradient(lavender 0%,lightpink 100%);
+}
+
+#Games {
+    height: 800px;
+    width: 100%;
+    background: linear-gradient(lightpink 0%,lightcyan 100%);
+}
+
+#ChatBots {
+    height: 800px;
+    width: 100%;
+    background: linear-gradient(lightcyan 0%,lightgreen 100%);
+}
+
+#myCarousel {  background: linear-gradient(lightpink 0%,lightcyan 100%); } #myCarousel img { height: 300px; margin-top: 35px; } .carousel-inner p { margin-bottom: 15px; margin-top: 15px; color : white; font-size: 20px; }
